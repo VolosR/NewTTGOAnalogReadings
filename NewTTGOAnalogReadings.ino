@@ -9,8 +9,8 @@ TFT_eSprite sprite = TFT_eSprite(&lcd);
 
 
 
-const char* ssid     = "IGK20";
-const char* password = "18072019";
+const char* ssid     = "xxxxxxxxxx";
+const char* password = "xxxxxxxxxx";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec =3600;
